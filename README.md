@@ -41,7 +41,6 @@ To provide a comprehensive JavaScript library for natural language processing ta
 - npm install
 - node server
 
-cook an llm
 
 ## Contributing:
 
